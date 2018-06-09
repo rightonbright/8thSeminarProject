@@ -31,10 +31,6 @@ class MainActivity : AppCompatActivity() {
             loginWithFaceBook()
         }
 
-        // test
-        // test 2
-
-
 //      Hash 키 구하기
 //        try {
 //            val info = packageManager.getPackageInfo(packageName, PackageManager.GET_SIGNATURES)
